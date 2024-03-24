@@ -189,3 +189,15 @@ int main(int argc, char const *argv[])
 
     return 0;
 }
+
+// git init
+// git add . 
+// git commit -am "_____"
+// git remote add origin 'link'
+// git push origin master
+
+
+// git status
+// git checkout -b test-branch            To change the branch
+// git commit -am "_____"
+//git push origin test-branch
